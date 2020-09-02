@@ -7,12 +7,13 @@ Hi, I am Sagar Chapagain.
 
 - I’m currently working at [Insight Workshop](https://insightworkshop.io/)!
 
-## In StackOverflow
-<a href="https://stackexchange.com/users/4570531"><img src="https://stackexchange.com/users/flair/4570531.png?theme=dark" width="208" height="58" alt="Sagar Chapagain on Stack Overflow" title="Sagar Chapagain on Stack Overflow"></a>
-
 ### Connect with me:
 <a href="https://twitter.com/sagar2093" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sagar2093" height="22" width="22" /></a>
 <a href="https://www.linkedin.com/in/sagar2093/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagar2093" height="22" width="22" /></a>
+<br />
+
+<br />
+<a href="https://stackexchange.com/users/4570531"><img src="https://stackexchange.com/users/flair/4570531.png?theme=dark" width="208" height="58" alt="Sagar Chapagain on Stack Overflow" title="Sagar Chapagain on Stack Overflow"></a>
 <br />
 
 ### Languages and Tools:
