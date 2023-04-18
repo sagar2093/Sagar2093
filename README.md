@@ -5,7 +5,7 @@ Hi, I am Sagar Chapagain.
 
 ## I'm a Developer!
 
-- I’m currently working at [Insight Workshop](https://insightworkshop.io/)!
+- I’m currently working at [JoBins](https://jobins.jp/)!
 
 ### Connect with me:
 <a href="https://twitter.com/sagar2093" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sagar2093" height="22" width="22" /></a>
